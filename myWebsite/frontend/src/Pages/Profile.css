@@ -1,0 +1,72 @@
+.containerProfile{
+    font-family: 'kanit';
+    align-items: center;
+    justify-content: center;
+}
+
+.menuProfile {
+    margin-top: 2rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.Profile{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.personalinfo{
+    margin: 0 auto;
+    width: 800px;
+    height: 400px;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.personalinfo h2{
+    color: gray;
+    padding-left: 20px;
+}
+
+.info-user a {
+    width: 100px;
+    border: 1px solid red;
+    padding:10px 10px;
+    display: flex;
+    color: gray;
+    text-decoration: none;
+}
+
+
+.info-user a :hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+
+.info-user{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    height: 400px;
+    border: 2px solid #FFBD59;
+    border-radius: 10px;
+}
+.info-user p{
+    font-size: 25px;
+    padding-left: 2rem;
+}
+
+
+.chance-pass{
+    
+    align-items: center;
+    text-align: center;
+}
+
+.new-pass{
+    text-align: center;
+}

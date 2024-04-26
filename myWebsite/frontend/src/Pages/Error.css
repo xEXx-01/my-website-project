@@ -1,0 +1,33 @@
+.contentError{
+    font-family: 'Kanit',sans-serif;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.contentError h1{
+    margin-top: 2rem;
+    font-size: 120px;
+}
+
+.contentError img{
+    width: 900px;
+}
+
+
+.buttonError button{
+    margin-top: 5rem;
+    background: #FFBD59;
+    border-radius: 5px  ;
+}
+
+.buttonError a{
+    text-decoration: none;
+    margin: 1rem 1rem;
+    font-size:  30px        ;
+    font-family: 'Kanit',sans-serif;
+    color: black;    
+}
+

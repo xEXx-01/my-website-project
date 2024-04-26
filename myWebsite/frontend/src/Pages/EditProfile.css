@@ -1,0 +1,24 @@
+
+.editProfile h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.edit-user{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.edit-user input{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.edit-user label{
+    padding-right: 50px;
+}

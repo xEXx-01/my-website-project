@@ -1,0 +1,21 @@
+.containerPhone{
+    width: 300px;
+    margin-left: 20px;
+}
+.phoneinput  label{
+    display: flex;
+    font-size: 18px;
+    flex-direction: column;
+}
+
+.phoneinput input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 8px;
+    outline: none;
+}
+
+
